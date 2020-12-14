@@ -1,0 +1,5 @@
+flask
+passlib
+Flask-WTF
+requests
+pyjwt
